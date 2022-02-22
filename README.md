@@ -10,7 +10,7 @@ The page represents a mini sports shoes e-commerce. It was developed as a way to
 ## 🔖 Layout
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/JoaoFilipeAlmeida/Fotosreadme/master/foto%20RocketShoes/RocketShoes.png?token=GHSAT0AAAAAABQGHULKUYQW3ZWA6AZQ6E5UYQUE6AA">
+<img src= "https://github.com/JoaoFilipeAlmeida/Fotosreadme/blob/master/foto%20RocketShoes/RocketShoes.png">
 <p>
  
 
